@@ -1,0 +1,31 @@
+{
+  "name": "@patternson/release",
+  "version": "0.0.0-development",
+  "description": "semantic release cofig and plugin for patternson libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/patternsonio/release.git"
+  },
+  "keywords": [
+    "patternson",
+    "semantic-release"
+  ],
+  "author": "Hannes Diercks <patternson-release@xiphe.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patternsonio/release/issues"
+  },
+  "homepage": "https://github.com/patternsonio/release#readme",
+  "devDependencies": {
+    "eslint": "4.19.1",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-import": "2.11.0",
+    "eslint-plugin-prettier": "2.6.0",
+    "prettier": "1.12.1"
+  }
+}

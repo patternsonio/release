@@ -1,6 +1,6 @@
 {
   "name": "@patternson/release",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "semantic release cofig and plugin for patternson libraries",
   "main": "index.js",
   "scripts": {
